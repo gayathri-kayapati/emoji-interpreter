@@ -8,7 +8,7 @@ const faceEmojiDictionary = {
   "😏": "Smirking Face",
   "😒": "Unamused Face",
   "😑": "Expressionless Face",
-   "😩": "Weary Face",
+  "😩": "Weary Face",
   "😫": "Tired Face",
   "😈": "Smiling Face with Horns",
   "😖": "Confounded Face",
