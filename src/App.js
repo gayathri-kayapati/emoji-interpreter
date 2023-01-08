@@ -7,7 +7,13 @@ const faceEmojiDictionary = {
   "🤣": "Rolling on the Floor Laughing",
   "😏": "Smirking Face",
   "😒": "Unamused Face",
-  "😑": "Expressionless Face"
+  "😑": "Expressionless Face",
+   "😩": "Weary Face",
+  "😫": "Tired Face",
+  "😈": "Smiling Face with Horns",
+  "😖": "Confounded Face",
+"😣": "Persevering Face",
+"😞": "Disappointed Face"
 };
 const emojis = Object.keys(faceEmojiDictionary);
 
